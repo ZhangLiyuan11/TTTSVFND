@@ -1,4 +1,4 @@
-# VMSVFND
+# T3SVFND
 Code for paper["***T3SVFND:Fake News Detection Adapted to Emergencies on Short Video Platforms***"]
 
 ### Environment
