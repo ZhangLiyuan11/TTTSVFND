@@ -1,5 +1,5 @@
 # T3SVFND
-Code for paper["***T3SVFND:Fake News Detection Adapted to Emergencies on Short Video Platforms***"]
+Code for **T3SVFND**
 
 ### Environment
 please refer to the file requirements.txt.
